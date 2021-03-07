@@ -9,7 +9,7 @@
 > * Goal of CCS：
 
 ## Homework 1~6
->> * [Hand-in form](https://bit.ly/2ZDu75H)
+>> * [Hand-in form](https://bit.ly/37u30hN)
 >> * [CheckHW sheets](https://bit.ly/2ZDu75H)
 >
 > * HW1：What do you think of Cloud Computing?
