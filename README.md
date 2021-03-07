@@ -9,8 +9,8 @@
 > * Goal of CCS：
 
 ## Homework 1~6
->> * [Hand-in form](作業查詢區：https://bit.ly/2ZDu75H)
->> * [CheckHW sheets](作業查詢區：https://bit.ly/2ZDu75H)
+>> * [Hand-in form](https://bit.ly/2ZDu75H)
+>> * [CheckHW sheets](https://bit.ly/2ZDu75H)
 >
 > * HW1：What do you think of Cloud Computing?
 >    * Deadline：2021/03/22
