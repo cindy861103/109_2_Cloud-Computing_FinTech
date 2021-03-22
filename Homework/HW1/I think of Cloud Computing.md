@@ -43,8 +43,6 @@
 &emsp;&emsp;根據Synergy Research Group的報告，可得知包含四個雲端關鍵服務以及基礎設施市場，其2020年上半年的營收為1,870億美元，相較於2019年的1,550億美元，成長率超過20%。[Cloud Market Growth_2020_H1](https://ml.globenewswire.com/Resource/Download/b3261391-205f-4c61-a79f-ca12b70cc69a?size=0)  
 <!-- [![Cloud MG](../Homework/HW1/Cloud Market Growth_2020_H1.jpg)](https://www.globenewswire.com/news-release/2020/09/21/2096636/0/en/2020-First-Half-Review-No-Crisis-Here-Cloud-Ecosystem-Revenues-Up-20-to-187-Billion.html "from: Synergy Research Group") -->
 
-<br>
-
 &emsp;&emsp;由Allied Research Market的報告顯示，2019年雲服務市場規模為2,648.0億美元，且預計到2027年將達到9,275.1億美元，從2020年到2027年的複合年增長率為16.4％。  
 
 &emsp;&emsp;根據美國研調機構IDC統計，雲端服務(IaaS、PaaS、SaaS)三大市場規模分別達到990億美元、620億美元和1,970億美元，且預估2018年至2022年的年複合成長率分別可達30%、28%及16%。  
