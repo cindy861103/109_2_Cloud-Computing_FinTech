@@ -31,7 +31,8 @@
 > * HW3：Build a Website using Amazon S3(Versioning)
 and AWS Amplify
 >    * Deadline：2021/04/12
->    * HW hand-in link：
+>    * HW hand-in link：[:movie_camera:Build a Website using Amazon S3(Versioning)
+and AWS Amplify](https://youtu.be/6KM2tAKAau8)
 > * HW4：Build a Telegram Chatbot using Amazon API
 Gateway and AWS Lambda
 >    * Deadline：2021/04/26
