@@ -55,6 +55,7 @@ Amazon DynamoDB 是一種鍵值和文件資料庫，可在任何規模下達到�
 * [什麼是 Amazon DynamoDB？](https://reurl.cc/0DNANY)
 
 ## 實作 - Juypter Notebook
+[20210503_AWS_HW5_Cloud_Computing_Database_Services_Uoload](https://reurl.cc/Q7Q0L0)
 
 ## 參考資料
 * [Boto3 documentation](https://reurl.cc/1gRde8)
