@@ -12,7 +12,7 @@ Amazon Relational Database Service(Amazon RDS)是一種Web服務，可讓使用�
 * SQL Server  
 ![AWS資料庫引擎](https://i.imgur.com/tUB7q7E.png)
 
-(備註：可以使用 AWS Database Migration Service 將現有的資料庫遷移或複寫到 Amazon RDS上。)
+【備註：可以使用 AWS Database Migration Service 將現有的資料庫遷移或複寫到 Amazon RDS上。】
 
 > * AWS RDS 與 DynamoDB 皆屬於「全託管服務」，意旨當資料庫突然故障抑或是一時的流量暴增導致超過初始設定的容量時，其會自動幫使用者擴展，故不需要擔心資料庫超量。  
 > * AWS RDS 具有「單點服務」的功能。亦即倘若初始設定為最小計費額度的使用量，但使用期間發現量不足需要擴展，可以一鍵設定到所需要的使用額度【Scale-up】。  
@@ -20,15 +20,15 @@ Amazon Relational Database Service(Amazon RDS)是一種Web服務，可讓使用�
 #### 備註：資料庫Replication(雲端-地端資料複寫)機制
 Replication泛指資料複製模式，其會把資料完整的同步複製到另一個資料庫的節點上，可以實現運算的擴充與高可用架構，此方式並非分散儲存的概念。
 ### AWS RDS 實作
-1. create database
+* create database
     * Multi-AZ deployment：
         * 可用於跨國業務只讀的功能
         * 若是雲端的DB一秒讀取和寫入的速度過快，造成server負荷過量而當機，進而無法再從此DB讀取資料，有一種解決方法就是開兩臺DB，A僅設定寫入(沒有開放讀取)，B偵測若是A寫入資料後會利用AWS的電纜自動將A內的資料快速備份到B上，而B僅設定讀取(沒有開放寫入)。
     * Virtual private cloud (VPC)：雲端上的私有網路
         * 資料庫視覺化【方法1】(即時)：<br>若是於RDS上興建一個MySQL的服務，他不會有一個介面像phpMyAdmin一樣可以視覺化資料庫，他只會有一個endpoint，故可以藉由MySQL Workbench或phpMyAdmin等在EC2上連接前述的endpoint。由於EC2和DB都是建立在同一個VPC下，所以可以直接連接溝通，就不用還要copy到外網再連接，可以提升效率。
         *  資料庫視覺化【方法2】：<br>於本機端安裝MySQL Workbench或phpMyAdmin等，個別調整DB的endpoint參數，進而取得AWS RDS上的資料。
-    * EndPoint端點：類似一串IP地址，並利用此串地址與DB進行溝通。
-3. me
+    * EndPoint端點：類似一串IP地址，並利用此串地址與DB進行溝通。  
+
 ## AWS DynamoDB雲端非關聯式(NoSQL)資料庫
 > **NoSQL**之特性：
 > * 可以自定義column的名稱，不像SQL是已經既定的。
@@ -54,7 +54,7 @@ Amazon DynamoDB 是一種鍵值和文件資料庫，可在任何規模下達到�
 * [Amazon DynamoDB](https://aws.amazon.com/tw/dynamodb/)
 * [什麼是 Amazon DynamoDB？](https://reurl.cc/0DNANY)
 
-## 實作 - Juypter Notebook
+## 實作 - Juypter Notebook Code  
 [20210503_AWS_HW5_Cloud_Computing_Database_Services_Uoload](https://reurl.cc/Q7Q0L0)
 
 ## 參考資料
