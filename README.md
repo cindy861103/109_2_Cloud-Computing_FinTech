@@ -29,7 +29,7 @@
 > |3|04/12|Build a Website using Amazon S3(Versioning)|[:clipboard:](https://reurl.cc/GdYaAW "AWS_3：S3 - Static web Hosting")|[:movie_camera:](https://youtu.be/6KM2tAKAau8)| [:video_camera:](https://reurl.cc/E2vmok "Video for W5 class")|
 > |4|04/26|[Build a Telegram Chatbot using Amazon API Gateway and AWS Lambda](https://hackmd.io/@cindy861103/rkY9Rx1S_)|[:clipboard:](https://reurl.cc/MZo2yv "AWS_4：API & Gateway, Lambda, Chatbot")|[:movie_camera:](https://youtu.be/N5koca3hPAA)|[:video_camera:](https://reurl.cc/R6o2y6 "Video for W6 class")|
 > |5|05/03|[Create a Database using Amazon RDS or Amazon DynamoDB](https://github.com/cindy861103/FinTech/tree/main/Homework/HW5)|[:clipboard:](https://reurl.cc/1gVbjQ "AWS_5：Database Services, RDS, DynamoDB")|[:movie_camera:](https://youtu.be/d_MfxmTFgP4)|[:video_camera:](https://reurl.cc/mqQp0l "Video for W8 class")|
-> |6|05/17|Create a Docker Container or Build your own|[:clipboard:](https://reurl.cc/R6VqKr "AWS_6：Docker") | |[:video_camera:](https://reurl.cc/6ymvWO "Video for W9 class")<br>[:video_camera:](https://reurl.cc/Q7QkQO "Video for W10 class")|
+> |6|05/17|[Create a Docker Container or Build your own Project Services](https://reurl.cc/WElllL)|[:clipboard:](https://reurl.cc/R6VqKr "AWS_6：Docker") |[:movie_camera:](https://youtu.be/O9Ke30VYa9o)|[:video_camera:](https://reurl.cc/6ymvWO "Video for W9 class")<br>[:video_camera:](https://reurl.cc/Q7QkQO "Video for W10 class")|
 
 ## :pencil: Learning Weekly Schedule
 ### Week1_20210222 [:video_camera:](https://www.youtube.com/watch?v=wo1YjRPg2CU "Video for W1 class")
@@ -68,18 +68,19 @@
 
 ### Week9_20210419 [:video_camera:](https://drive.google.com/drive/folders/1WHn97vTfOfPQ9DR7qKWSo60ZGjx0V81A?usp=sharing "Video for W9 class")
 > * [**First Project Checkpoint1**](https://reurl.cc/L0OZN9)
-> * [W9：專題追蹤 & 南山人壽業務員違規偵測專題建議](https://docs.google.com/presentation/d/1lKEjVD89RqyJKzTYhfanL6EdN6AHLfiodcv9jbqLxK0/edit?usp=sharing)
+> * [W9：專題追蹤 & 南山人壽業務員違規偵測專題](https://docs.google.com/presentation/d/1lKEjVD89RqyJKzTYhfanL6EdN6AHLfiodcv9jbqLxK0/edit?usp=sharing)
 > * [AWS_6：Docker](https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb)
 
 ### Week10_20210426 [:video_camera:](https://drive.google.com/drive/folders/1n70P9nWd8C9alEHDqOM7QziRLS0uyEOv?usp=sharing "Video for W10 class")
 <!-- > * [AWS_6：Docker(後半)](http://isee.scu.edu.tw/mod/url/view.php?id=714406) -->
-> * [W10：專題追蹤 & 南山人壽文本生成專題建議](https://reurl.cc/e92z0x)
+> * [W10：專題追蹤 & 南山人壽文本生成專題](https://reurl.cc/e92z0x)
 > * [CP1：第一次專題進度報告之老師助教回饋](https://docs.google.com/presentation/d/1NCjvK2YB8ruf-HmYuiH7tp5wU5HcktBY-sKMwaAj5G0/edit#slide=id.gbde736d55e_0_107)
 
-### Week11_20210503
-> * [CP1：第一次專題進度優秀組別分享](https://docs.google.com/presentation/d/1_PMjs8ObICrQwGOib0UJEu3ncWBX-6mnTXFDaw43-KY/edit#slide=id.gd47126b767_0_57)
+### Week11_20210503 [:video_camera:](https://drive.google.com/drive/folders/1czhDswYdG5LoA4Hq-D-e7j9bovdBSZMn?usp=sharing "Video for W11 class")
+> * [W11：專題討論 - 玉山金控題目一](https://reurl.cc/YWgv7O)
+>  * [CP1：第一次專題進度優秀組別分享](https://docs.google.com/presentation/d/1_PMjs8ObICrQwGOib0UJEu3ncWBX-6mnTXFDaw43-KY/edit#slide=id.gd47126b767_0_57)
 
-### Week12_20210510
+### Week12_20210510 [:video_camera:](https://drive.google.com/drive/folders/1FGV6lhxcRN2w-1PDIp9oTQxWkdysJkGM?usp=sharing "Video for W12 class")
 > * **First Project Checkpoint2**
 
 ### Week13_20210517
@@ -103,18 +104,19 @@
 
 --------------------------------------------
 ##  :star2: **Fintech Project**
-### [南山人壽一：文本生成--市場焦點機器人(T3)](https://github.com/nalala9054/FinTech-2020Q2-T3)
+<!-- ### [南山人壽一：文本生成--市場焦點機器人(T3)](https://github.com/nalala9054/FinTech-2020Q2-T3) -->
+### 南山人壽一：文本生成--市場焦點機器人(T3)
 
-> * 2021/04/19 **第一次進度報告**  
->  [【Fintech Project】Team33：南山人壽 文本生成機器人 Checkpoint1的進度匯報](https://youtu.be/MPDAgeoKY_0)  
->  * Check Index：  
+#### 2021/04/19 **第一次進度報告**  
+> * [【Fintech Project】Team33：南山人壽 - 文本生成機器人 Checkpoint1的進度匯報](https://youtu.be/MPDAgeoKY_0)  
+<!-- > * Check Index：  
 >    1. 與業師及跨校同學建立好聯繫模式  
 >    2. 至少討論過三次(4/1、4/8、4/15)  
->    3. 提出討論的溝通內容及專案管理的狀態  
+>    3. 提出討論的溝通內容及專案管理的狀態   -->
 
-<!-- > * 2021/05/10 **第二次進度報告**  
->  [【Fintech Project】Team33：南山人壽 文本生成機器人 Checkpoint2的進度匯報]()  
->  * Check Index：  
+#### 2021/05/10 **第二次進度報告**  
+> * [【Fintech Project】Team33：南山人壽 - 文本生成機器人 Checkpoint2的進度匯報](https://reurl.cc/o9k88v)  
+<!-- > * Check Index：  
 >    1. 建立好基本分工流程  
 >    2. 提出最小可行性方案規劃   -->
 
