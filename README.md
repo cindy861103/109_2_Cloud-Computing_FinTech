@@ -67,7 +67,7 @@
 
 
 ### Week9_20210419 [:video_camera:](https://drive.google.com/drive/folders/1WHn97vTfOfPQ9DR7qKWSo60ZGjx0V81A?usp=sharing "Video for W9 class")
-> * [**First Project Checkpoint1**](https://reurl.cc/L0OZN9)
+> * [**Fintech Project Checkpoint1**](https://reurl.cc/L0OZN9)
 > * [W9：專題追蹤 & 南山人壽業務員違規偵測專題](https://docs.google.com/presentation/d/1lKEjVD89RqyJKzTYhfanL6EdN6AHLfiodcv9jbqLxK0/edit?usp=sharing)
 > * [AWS_6：Docker](https://www.notion.so/Docker-5cc2ffdbebd44dc1ab46ab1dfc31ebeb)
 
@@ -81,26 +81,33 @@
 >  * [CP1：第一次專題進度優秀組別分享](https://docs.google.com/presentation/d/1_PMjs8ObICrQwGOib0UJEu3ncWBX-6mnTXFDaw43-KY/edit#slide=id.gd47126b767_0_57)
 
 ### Week12_20210510 [:video_camera:](https://drive.google.com/drive/folders/1FGV6lhxcRN2w-1PDIp9oTQxWkdysJkGM?usp=sharing "Video for W12 class")
-> * **First Project Checkpoint2**
+> * **Fintech Project Checkpoint2**
 
 ### Week13_20210517
-> * **AWS 社群大使工作坊**
+> * [AWS 社群大使工作坊](https://hackmd.io/m5M2fmo7SaWdA-hqs0oNvA?view)
 
-### Week14_20210524
+### Week14_20210524 [:video_camera:](https://youtu.be/0VL0799iV_4 "Video for W14 class")
+> * [W14：共現性分析與關聯式學習](https://reurl.cc/qm9qKR)
 
-### Week15_20210531
-> * **First Project Checkpoint3**
-> * 2020/06/02(三)講座：**金融科技相關發展與政策制定**
+### Week15_20210531 [:video_camera:](https://youtu.be/YddekjjM7UU "Video for W15 class")
+> * **Fintech Project Checkpoint3**
+> * [W15：Checkpoint3 助教講評與反饋](https://drive.google.com/file/d/1OfRBz-jlaqENcFUdPctez7gkVMpnanlT/view?usp=sharing)
+> * [W15：Checkpoint3 老師講評與反饋](https://docs.google.com/presentation/d/1ztJREUakI0ibQKrmtywCdLUBd6cMsd5CtUONmstCrik/edit?usp=sharing)
 
-### Week16_20210607
-> * 2020/06/09(三)講座：**智慧財產權相關法律觀念簡介**
+### Week16_20210607 [:video_camera:](https://reurl.cc/a94gYD "Video for W16 class")
+> * [PHP Connect to MySQL](https://reurl.cc/ze6Lj6)
+> * [將Amazon RDS資料庫執行個體新增至PHP應用程式環境](https://reurl.cc/Lb6gzy)
+> * [2020/06/09(三)線上講座：**智慧財產權相關法律觀念簡介**](https://reurl.cc/2rEeGX)
 
 ### Week17_20210614
 
-### Week18_20210621
-> * **專題部署完成**
 
-### Final Demo_20210628~0702
+### Week18_20210621
+
+
+### W19_20210630_Final Demo：9~12點【線上】
+> * [線上發表會流程表](https://reurl.cc/eE8VDW)
+
 
 --------------------------------------------
 ##  :star2: **Fintech Project**
@@ -120,13 +127,16 @@
 >    1. 建立好基本分工流程  
 >    2. 提出最小可行性方案規劃   -->
 
-<!-- > * 2021/05/31 **第三次進度報告**  
->  [【Fintech Project】Team33：南山人壽 文本生成機器人 Checkpoint3的進度匯報]()  
->  * Check Index：確認好雲端服務相關工具與專案整合策略   -->
+#### 2021/05/31 **第三次進度報告**  
+>  * [【Fintech Project】Team33：南山人壽 文本生成機器人 Checkpoint3的進度匯報](https://youtu.be/U1mgfCB5-Uc)  
+<!-- >  * Check Index：確認好雲端服務相關工具與專案整合策略   -->
 
-<!-- > * 2021/06/28~0722 **期末發表正式報告**  
->  [【Fintech Project】Team33：南山人壽 文本生成機器人 Final Demo]()  
->  * Check Index：   -->
+#### 2021/06/22 **期末匯報**  
+>  * [【Fintech Project】Team33：南山人壽 文本生成機器人 Final - 3分鐘廣告影片](https://youtu.be/lDfDV1I2Pr4)
+>  * [【Fintech Project】Team33：南山人壽 文本生成機器人 Final - 15分鐘PPT匯報影片](https://youtu.be/P5BRHqQ6Vew)  
+
+<!-- #### 2021/06/30 **期末線上發表正式報告**   -->
+
 
 
 
