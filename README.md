@@ -16,8 +16,7 @@
 >    * 透過金融科技專題來整合大數據雲端服務，並跨校組隊實作解決金融業者所提供的金融產業問題，課程內容包括財金專業知識、文字探勘與機器學習，以及使用程式語言（如：Python）實做。
 >    * 學習AWS雲端運算服務(以第二~五次作業為教學主軸)
 > * Grades：[**成績彙整表**](https://docs.google.com/spreadsheets/d/19zVTnEKT4-yo4CVhMYEkP6iGacUsVwxU35vEMthmKrI/edit#gid=0)
-> * Fintech Project：
-<!-- [**南山人壽一：文本生成--市場焦點機器人**]() -->
+> * Fintech Project：**南山人壽（一）：文本生成 - 市場焦點機器人【T33】**
 
 ## :bookmark_tabs: Homework 1~6
 > * [**CCS作業說明**](https://docs.google.com/presentation/d/1RCUnZUk5qfb_ukjVjv5ievIR-3ZHs6Do/edit#slide=id.p1)  
@@ -110,28 +109,27 @@
 
 
 --------------------------------------------
-##  :star2: **Fintech Project**
-<!-- ### [南山人壽一：文本生成--市場焦點機器人(T3)](https://github.com/nalala9054/FinTech-2020Q2-T3) -->
-### 南山人壽一：文本生成--市場焦點機器人(T3)
+##  :star2: **Fintech Project【Team33】**
+### :chart_with_upwards_trend:[南山人壽一：文本生成--市場焦點機器人(T3)](https://github.com/nalala9054/FinTech-2020Q2-T3) 
 
-#### 2021/04/19 **第一次進度報告**  
+#### :round_pushpin: 2021/04/19 **第一次進度報告**  
 > * [【Fintech Project】Team33：南山人壽 - 文本生成機器人 Checkpoint1的進度匯報](https://youtu.be/MPDAgeoKY_0)  
 <!-- > * Check Index：  
 >    1. 與業師及跨校同學建立好聯繫模式  
 >    2. 至少討論過三次(4/1、4/8、4/15)  
 >    3. 提出討論的溝通內容及專案管理的狀態   -->
 
-#### 2021/05/10 **第二次進度報告**  
+#### :round_pushpin: 2021/05/10 **第二次進度報告**  
 > * [【Fintech Project】Team33：南山人壽 - 文本生成機器人 Checkpoint2的進度匯報](https://reurl.cc/o9k88v)  
 <!-- > * Check Index：  
 >    1. 建立好基本分工流程  
 >    2. 提出最小可行性方案規劃   -->
 
-#### 2021/05/31 **第三次進度報告**  
+#### :round_pushpin: 2021/05/31 **第三次進度報告**  
 >  * [【Fintech Project】Team33：南山人壽 文本生成機器人 Checkpoint3的進度匯報](https://youtu.be/U1mgfCB5-Uc)  
 <!-- >  * Check Index：確認好雲端服務相關工具與專案整合策略   -->
 
-#### 2021/06/22 **期末匯報**  
+#### :round_pushpin: 2021/06/22 **期末匯報**  
 >  * [【Fintech Project】Team33：南山人壽 文本生成機器人 Final - 3分鐘廣告影片](https://youtu.be/lDfDV1I2Pr4)
 >  * [【Fintech Project】Team33：南山人壽 文本生成機器人 Final - 15分鐘PPT匯報影片](https://youtu.be/P5BRHqQ6Vew)  
 
